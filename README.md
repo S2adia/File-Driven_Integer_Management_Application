@@ -12,9 +12,6 @@ For the modifyValuewithexcpt function (a function to modify the value of a given
 <img width="1000" alt="Screenshot 2024-02-08 at 8 04 43 PM" src="https://github.com/S2adia/CS303-1/assets/123522521/0f48fa2e-cadf-42f9-a50b-a3e2d3ad6131">
 
 
-Sadia Alam
-say7r@umsystem.edu
-Assignment 1
 
 
 
